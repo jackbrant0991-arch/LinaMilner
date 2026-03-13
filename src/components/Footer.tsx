@@ -65,9 +65,9 @@ export function Footer({ onApply, onDiscovery }: { onApply: () => void; onDiscov
 
             {/* About */}
             <div>
-              <h3 className="font-display text-xl font-semibold text-white mb-4">Ondine Smulders</h3>
+              <h3 className="font-display text-xl font-semibold text-white mb-4">Lina Milner</h3>
               <p className="text-sm leading-relaxed" style={{ color: 'rgba(255,255,255,0.55)', lineHeight: '1.8' }}>
-                Existential therapist helping clients reclaim autonomy after coercive control. Based in Harley Street, London W1G.
+                Psychosexual therapist addressing intimacy issues after narcissistic abuse. Based in Harley Street, London W1G.
               </p>
               <div className="mt-5 flex flex-wrap gap-2">
                 {['Trauma-Informed', 'Nervous System Safe', 'Body-Based'].map(badge => (
@@ -87,21 +87,21 @@ export function Footer({ onApply, onDiscovery }: { onApply: () => void; onDiscov
               <h3 className="text-base font-semibold text-white mb-5">Get in Touch</h3>
               <div className="space-y-3.5">
                 <a
-                  href="tel:07788411135"
+                  href="tel:02074678300"
                   className="flex items-center gap-3 text-sm transition-colors duration-200 group"
                   style={{ color: 'rgba(255,255,255,0.55)' }}
                 >
                   <Phone className="w-4 h-4 group-hover:text-sage transition-colors" aria-hidden="true" />
-                  <span className="group-hover:text-white transition-colors">07788 411135</span>
+                  <span className="group-hover:text-white transition-colors">020 7467 8300</span>
                 </a>
                 <a
-                  href="mailto:ondine@existentialpsychotherapy.com"
+                  href="mailto:lina@linamilner.com"
                   className="flex items-start gap-3 text-sm transition-colors duration-200 group"
                   style={{ color: 'rgba(255,255,255,0.55)' }}
                 >
                   <Mail className="w-4 h-4 flex-shrink-0 mt-0.5 group-hover:text-sage transition-colors" aria-hidden="true" />
                   <span className="group-hover:text-white transition-colors break-all">
-                    ondine@existentialpsychotherapy.com
+                    lina@linamilner.com
                   </span>
                 </a>
               </div>
@@ -118,7 +118,7 @@ export function Footer({ onApply, onDiscovery }: { onApply: () => void; onDiscov
               <div className="flex gap-3 mb-8">
                 <a
                   href="#"
-                  aria-label="Follow Ondine on Instagram"
+                  aria-label="Follow Lina on Instagram"
                   className="w-10 h-10 rounded-full flex items-center justify-center transition-all duration-300"
                   style={{ backgroundColor: 'rgba(255,255,255,0.08)', color: 'rgba(255,255,255,0.5)' }}
                   onMouseEnter={e => {
@@ -136,7 +136,7 @@ export function Footer({ onApply, onDiscovery }: { onApply: () => void; onDiscov
                 </a>
                 <a
                   href="#"
-                  aria-label="Connect with Ondine on LinkedIn"
+                  aria-label="Connect with Lina on LinkedIn"
                   className="w-10 h-10 rounded-full flex items-center justify-center transition-all duration-300"
                   style={{ backgroundColor: 'rgba(255,255,255,0.08)', color: 'rgba(255,255,255,0.5)' }}
                   onMouseEnter={e => {
@@ -178,7 +178,7 @@ export function Footer({ onApply, onDiscovery }: { onApply: () => void; onDiscov
               className="flex flex-col md:flex-row justify-between items-center gap-3 text-xs"
               style={{ color: 'rgba(255,255,255,0.35)' }}
             >
-              <p>© 2025 Ondine Smulders Existential Psychotherapy. All rights reserved.</p>
+              <p>© 2025 Lina Milner Psychosexual Therapy. All rights reserved.</p>
               <p className="text-center md:text-right">
                 <a
                   href="https://harleystreet-practitioners.co.uk"

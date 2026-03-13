@@ -48,7 +48,7 @@ export function StickyMobileCTA({ onApply }: StickyMobileCTAProps) {
                             className="font-display font-semibold text-sm"
                             style={{ color: '#4A4E69' }}
                         >
-                            Ondine Smulders
+                            Lina Milner
                         </span>
                         <button
                             id="sticky-apply-btn"

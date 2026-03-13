@@ -113,7 +113,7 @@ export function Hero({ onApply, onDiscovery }: { onApply: () => void; onDiscover
             className="mt-8 text-lg md:text-xl max-w-2xl mx-auto mb-10"
             style={{ lineHeight: '1.85', color: 'rgba(253,253,248,0.75)' }}
           >
-            A 12-week somatic journey moving you from survival mode to embodied sovereignty.
+            A 12-week psychosexual journey moving you from the aftermath of narcissistic abuse to embodied intimacy and desire.
             At your pace. In your body. On your terms.
           </motion.p>
 

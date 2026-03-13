@@ -31,7 +31,7 @@ const testimonials = [
   },
   {
     name: 'J.',
-    quote: "I spent years in talk therapy circling the same stories. Ondine's existential approach helped me release what words never could. I finally feel safe in my own skin.",
+    quote: "I spent years in talk therapy circling the same stories. Lina's psychosexual approach helped me release what words never could. I finally feel safe in my own skin.",
     weeks: '8 weeks',
   },
   {
@@ -42,17 +42,17 @@ const testimonials = [
 ];
 
 const survivalItems = [
-  { Icon: AlertCircle, label: 'Hypervigilance', desc: 'Always scanning for danger, never at rest' },
-  { Icon: AlertCircle, label: 'Numbness', desc: 'Disconnected from your body and feelings' },
-  { Icon: AlertCircle, label: 'Chronic Tension', desc: 'Physical holding stored in muscle and tissue' },
-  { Icon: AlertCircle, label: 'Shame Spiral', desc: 'Internalised blame and self-doubt' },
+  { Icon: AlertCircle, label: 'Hypervigilance', desc: 'Always scanning for danger, even in intimacy' },
+  { Icon: AlertCircle, label: 'Numbness', desc: 'Disconnected from your body and your desire' },
+  { Icon: AlertCircle, label: 'Chronic Tension', desc: 'Physical holding stored in the pelvic floor and tissue' },
+  { Icon: AlertCircle, label: 'Shame Spiral', desc: 'Internalised blame surrounding intimacy' },
 ];
 
 const embodiedItems = [
-  { Icon: Shield, label: 'Safety', desc: 'Grounded presence in the here and now' },
-  { Icon: Heart, label: 'Connection', desc: 'Warm, trusting relationship with your body' },
-  { Icon: Leaf, label: 'Boundaries', desc: 'Clear, embodied sense of self and space' },
-  { Icon: Sun, label: 'Self-Worth', desc: 'Returning to your innate goodness and value' },
+  { Icon: Shield, label: 'Safety', desc: 'Grounded presence in your body and skin' },
+  { Icon: Heart, label: 'Desire', desc: 'Warm, trusting relationship with your sexuality' },
+  { Icon: Leaf, label: 'Boundaries', desc: 'Clear, embodied sense of what is "yes" and "no"' },
+  { Icon: Sun, label: 'Sovereignty', desc: 'Returning to your innate right to pleasure' },
 ];
 
 export function SocialProof() {
